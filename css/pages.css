@@ -1,0 +1,13 @@
+* {
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+ul,
+ol {
+    list-style-position: inside;
+}
+
+img {
+    border-radius: 10px;
+}
